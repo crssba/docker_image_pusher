@@ -1,1 +1,1 @@
-telegraf:latest
+ubuntu:22.04
