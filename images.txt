@@ -1,3 +1,12 @@
+whyour/qinglong:latest
+linuxserver/jackett:latest
+noipcom/noip-duc:latest
+nodered/node-red:latest
+deluan/navidrome:latest
+nevinee/qbittorrent:latest
+zerotier/zerotier:latest
+onething1/wxedge:latest
+homeassistant/home-assistant:latest
 containrrr/watchtower:latest
 ghcr.monlor.com/monlor/xiaoya-alist:latest
 ghcr.monlor.com/monlor/xiaoya-metadata:latest
