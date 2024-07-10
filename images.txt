@@ -1,1 +1,1 @@
-zishuo/embyserver:latest
+fleyx/open-renamer:latest
