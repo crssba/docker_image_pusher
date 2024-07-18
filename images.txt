@@ -1,1 +1,3 @@
-karsten13/magicmirror:latest
+diygod/rsshub:latest
+browserless/chrome:latest
+redis:alpine
