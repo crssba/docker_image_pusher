@@ -1,3 +1,1 @@
-ghcr.monlor.com/monlor/xiaoya-alist:latest
-ghcr.monlor.com/monlor/xiaoya-metadata:latest
-ghcr.monlor.com/monlor/xiaoya-embyserver:latest:latest
+deluan/navidrome:latest
