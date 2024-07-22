@@ -1,1 +1,1 @@
-images-cluster.xycloud.com/wxedge/wxedge:latest
+cloudnas/clouddrive2:latest
