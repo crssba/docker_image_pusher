@@ -1,1 +1,1 @@
-esphome/esphome:latest
+homeassistant/home-assistant:latest
