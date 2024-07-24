@@ -1,6 +1,5 @@
 telegraf:latest
 
-ubuntu:22.04
 
 6053537/portainer-ce:latest
 
