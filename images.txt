@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+linuxserver/emby:latest
