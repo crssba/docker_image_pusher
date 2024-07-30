@@ -1,1 +1,1 @@
-haroldli/xiaoya-tvbox:latest
+ghcr.io/binary-husky/gpt_academic_nolocal:master:latest
