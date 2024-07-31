@@ -1,1 +1,1 @@
-ghcr.io/binary-husky/gpt_academic_nolocal:master
+ghcr.io/binary-husky/gpt_academic_jittorllms:master
