@@ -1,1 +1,2 @@
-ghcr.io/binary-husky/gpt_academic_jittorllms:master
+dreamacro/clash:latest
+haishanh/yacd:latest
