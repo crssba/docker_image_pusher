@@ -1,1 +1,1 @@
-nevinee/qbittorrent:iyuu
+nevinee/qbittorrent:latest
