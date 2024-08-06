@@ -1,2 +1,1 @@
-ionewu/owjdxb:latest
-openfrp/frpc:latest
+allanpk716/ChineseSubFinder:latest
