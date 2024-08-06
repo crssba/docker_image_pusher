@@ -1,1 +1,1 @@
-allanpk716/ChineseSubFinder:latest
+allanpk716/chinesesubfinder:latest
