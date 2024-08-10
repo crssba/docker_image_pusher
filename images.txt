@@ -1,1 +1,1 @@
-natfrp.com/frpc:latest
+codyguo/tc-docker:latest
