@@ -1,2 +1,1 @@
-
-ddsderek/xiaoya-glue:latest
+ddsderek/xiaoya-glue:python
