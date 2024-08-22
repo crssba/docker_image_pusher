@@ -1,1 +1,2 @@
 chevereto/chevereto:latest
+mariadb:jammy
