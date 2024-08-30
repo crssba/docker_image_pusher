@@ -1,2 +1,1 @@
-chevereto/chevereto:latest
-mariadb:jammy
+cloudnas/clouddrive2:latest
