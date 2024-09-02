@@ -1,1 +1,1 @@
-emby/embyserver:latest
+cloudnas/clouddrive2:latest
