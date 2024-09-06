@@ -1,1 +1,1 @@
-jinshanyun/jinshan-x86_64
+shenxianmq/auto_symlink:latest
