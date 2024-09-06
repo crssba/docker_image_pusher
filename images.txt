@@ -1,3 +1,4 @@
+lsycloud/iaas:v1
 telegraf:latest
 
 xhofe/alist:latest
