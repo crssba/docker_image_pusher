@@ -1,4 +1,5 @@
 lsycloud/iaas:v1
+lsycloud/iaas-amd64
 telegraf:latest
 
 xhofe/alist:latest
