@@ -1,2 +1,4 @@
 shenxianmq/auto_symlink:latest
 diygod/rsshub:latest
+browserless/chrome:latest
+redis:alpine:latest
