@@ -1,1 +1,2 @@
 shenxianmq/auto_symlink:latest
+diygod/rsshub:latest
