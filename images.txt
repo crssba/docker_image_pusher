@@ -1,1 +1,1 @@
-xiaoyaliu/alist:hostmode
+onething1/wxedge:latest
