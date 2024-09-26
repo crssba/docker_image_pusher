@@ -1,2 +1,1 @@
-psharkey/webssh2:latest
-
+ghcr.io/immich-app/immich-server:release
