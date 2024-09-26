@@ -1,1 +1,2 @@
-blakeblackshear/frigate:0.11.1
+psharkey/webssh2:latest
+
