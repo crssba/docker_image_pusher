@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+blakeblackshear/frigate:0.11.1
