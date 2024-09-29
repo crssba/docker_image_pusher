@@ -1,1 +1,1 @@
-libretranslate/libretranslate:latest
+shenxianmq/auto_symlink:latest
