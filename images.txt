@@ -1,1 +1,1 @@
-ghcr.io/ajnart/homarr:latest
+insoxin/api:latest
