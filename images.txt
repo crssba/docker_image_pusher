@@ -1,1 +1,1 @@
-insoxin/api:latest
+ambitiousjun/go-emby2alist:v1.0.9
