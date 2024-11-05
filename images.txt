@@ -1,1 +1,1 @@
-guovern/tv-driver:latest
+haroldli/alist-tvbox:latest
