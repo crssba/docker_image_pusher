@@ -1,3 +1,4 @@
+deluan/navidrome:latest
 zerotier/zerotier:latest
 fleyx/open-renamer:latest
 finab/bark-server:latest
