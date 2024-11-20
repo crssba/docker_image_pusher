@@ -1,3 +1,5 @@
+dreamacro/clash:latest
+haishanh/yacd:latest
 ghcr.io/metacubex/metacubexd:latest
 docker.io/metacubex/mihomo:Alpha
 deluan/navidrome:latest
