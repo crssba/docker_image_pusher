@@ -1,3 +1,5 @@
+ghcr.io/metacubex/metacubexd:latest
+docker.io/metacubex/mihomo:Alpha
 deluan/navidrome:latest
 zerotier/zerotier:latest
 fleyx/open-renamer:latest
