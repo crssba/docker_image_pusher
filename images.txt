@@ -1,3 +1,4 @@
+containrrr/watchtower:latest
 haroldli/xiaoya-tvbox:latest
 portainer/portainer-ce:latest
 dreamacro/clash:latest
