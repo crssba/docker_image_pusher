@@ -1,3 +1,4 @@
+mysql:oracle
 containrrr/watchtower:latest
 haroldli/xiaoya-tvbox:latest
 portainer/portainer-ce:latest
