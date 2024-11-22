@@ -1,3 +1,4 @@
+portainer/portainer-ce:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
 ghcr.io/metacubex/metacubexd:latest
