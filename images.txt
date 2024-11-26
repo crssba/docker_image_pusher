@@ -1,3 +1,4 @@
+gotify/server:latest
 mysql:8.0.36
 mysql:oracle
 containrrr/watchtower:latest
