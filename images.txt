@@ -1,3 +1,4 @@
+foamzou/melody:latest
 pan93412/unblock-netease-music-enhanced
 fogforest/yesplaymusic:latest
 hanxi/xiaomusic:latest
