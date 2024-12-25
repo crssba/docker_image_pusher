@@ -1,3 +1,4 @@
+ddsderek/xiaoyakeeper:latest
 geekotaku/xiaoyahelper:latest
 easychen/cookiecloud:latest
 foamzou/melody:latest
