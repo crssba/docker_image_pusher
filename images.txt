@@ -1,3 +1,4 @@
+geekotaku/xiaoyahelper:latest
 easychen/cookiecloud:latest
 foamzou/melody:latest
 pan93412/unblock-netease-music-enhanced
