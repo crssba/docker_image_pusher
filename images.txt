@@ -1,3 +1,4 @@
+6053537/portainer-ce:latest
 homeassistant/home-assistant:latest
 ddsderek/xiaoyakeeper:latest
 geekotaku/xiaoyahelper:latest
@@ -12,7 +13,7 @@ mysql:8.0.36
 mysql:oracle
 containrrr/watchtower:latest
 haroldli/xiaoya-tvbox:latest
-portainer/portainer-ce:latest
+
 dreamacro/clash:latest
 haishanh/yacd:latest
 ghcr.io/metacubex/metacubexd:latest
