@@ -1,3 +1,4 @@
+finab/bark-server:latest
 nodered/node-red:latest
 jxxghp/moviepilot-v2:latest
 tinymediamanager/tinymediamanager:latest
