@@ -1,3 +1,4 @@
+jlesage/firefox:latest
 hisatri/lrcapi:latest
 openfrp/frpc:latest
 jokobsk/netalertx:latest
