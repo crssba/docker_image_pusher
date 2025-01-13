@@ -1,3 +1,4 @@
+ghcr.io/noipcom/noip-duc:latest
 jlesage/firefox:latest
 hisatri/lrcapi:latest
 openfrp/frpc:latest
