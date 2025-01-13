@@ -1,4 +1,4 @@
-openfrp/frpc：latest
+openfrp/frpc:latest
 jokobsk/netalertx:latest
 finab/bark-server:latest
 nodered/node-red:latest
