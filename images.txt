@@ -1,3 +1,4 @@
+scavin/ws-scrcpy:latest
 emby/embyserver:latest
 likun7981/hlink:latest
 ghcr.io/noipcom/noip-duc:latest
