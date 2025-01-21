@@ -1,3 +1,4 @@
+qmcgaw/ddns-updater:latest
 emptysuns/scrcpy-web:v0.1
 scavin/ws-scrcpy:latest
 emby/embyserver:latest
