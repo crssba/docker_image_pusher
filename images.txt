@@ -1,3 +1,4 @@
+xhongc/music_tag_web:latest
 qmcgaw/ddns-updater:latest  
 emptysuns/scrcpy-web:v0.1  
 scavin/ws-scrcpy:latest  
