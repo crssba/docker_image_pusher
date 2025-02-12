@@ -1,4 +1,4 @@
-yihong0618/xiaogpt:latest
+
 rockchin/langbot:latest
 xhongc/music_tag_web:latest
 qmcgaw/ddns-updater:latest  
