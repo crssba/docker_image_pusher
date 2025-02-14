@@ -1,3 +1,4 @@
+dzhuang/tinymediamanager:latest-v5
 yihong0618/xiaogpt:latest
 rockchin/langbot:latest
 xhongc/music_tag_web:latest
@@ -14,7 +15,7 @@ jokobsk/netalertx:latest
 finab/bark-server:latest  
 nodered/node-red:latest  
 jxxghp/moviepilot-v2:latest  
-tinymediamanager/tinymediamanager:latest  
+
 mongo:4.4.4  
 xbrowsersync/api:1.1.13  
 caddy:2.3.0-alpine  
