@@ -1,3 +1,4 @@
+emqx/emqx:latest
 dzhuang/tinymediamanager:latest-v5
 yihong0618/xiaogpt:latest
 rockchin/langbot:latest
