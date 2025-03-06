@@ -3,7 +3,7 @@ emqx/emqx:latest
 dzhuang/tinymediamanager:latest-v5
 yihong0618/xiaogpt:latest
 rockchin/langbot:latest
-xhongc/music_tag_web:latest
+panda62/music-tag-web:latest
 qmcgaw/ddns-updater:latest  
 emptysuns/scrcpy-web:v0.1  
 scavin/ws-scrcpy:latest  
