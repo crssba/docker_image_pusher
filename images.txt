@@ -1,9 +1,9 @@
+xhongc/music_tag_web:latest
 prophet310/alist-encrypt:beta
 emqx/emqx:latest
 dzhuang/tinymediamanager:latest-v5
 yihong0618/xiaogpt:latest
 rockchin/langbot:latest
-panda62/music-tag-web:latest
 qmcgaw/ddns-updater:latest  
 emptysuns/scrcpy-web:v0.1  
 scavin/ws-scrcpy:latest  
