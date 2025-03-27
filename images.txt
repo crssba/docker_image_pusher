@@ -1,3 +1,6 @@
+redis:alpine
+browserless/chrome:latest
+diygod/rsshub:latest
 gngpp/xunlei:latest
 zhengxiang1101/music_tag_web
 prophet310/alist-encrypt:beta
