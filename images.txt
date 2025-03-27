@@ -1,3 +1,5 @@
+akimio/autofilm:latest
+akimio/mediawarp:0.0.6
 redis:alpine
 browserless/chrome:latest
 diygod/rsshub:latest
