@@ -1,7 +1,8 @@
+ambitiousjun/go-emby2alist:latest
 rustdesk/rustdesk-server:latest
 
 jiangrui1994/cloudsaver:latest
-ambitiousjun/go-emby2alist:v1.5.2
+
 akimio/mediawarp:latest
 akimio/autofilm:latest
 redis:alpine
