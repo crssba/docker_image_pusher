@@ -1,3 +1,4 @@
+seedgou/zerotier-moon
 tailscale/tailscale:latest
 dr34m/tao-sync:latest
 ambitiousjun/go-emby2alist:latest
