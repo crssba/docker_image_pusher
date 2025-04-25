@@ -1,3 +1,4 @@
+ambitiousjun/live-server:latest
 seedgou/zerotier-moon
 tailscale/tailscale:latest
 dr34m/tao-sync:latest
