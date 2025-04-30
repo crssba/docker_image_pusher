@@ -1,3 +1,4 @@
+xiaoyaliu/alist:latest
 ambitiousjun/live-server:latest
 seedgou/zerotier-moon
 tailscale/tailscale:latest
