@@ -1,3 +1,4 @@
+amilys/embyserver:latest
 dko0/lsky-pro:latest
 mysql:8.0
 xiaoyaliu/alist:latest
