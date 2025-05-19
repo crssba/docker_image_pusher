@@ -1,4 +1,4 @@
-mosswill/erin:latest
+mosswill/erin:1.16
 amilys/embyserver:latest
 dko0/lsky-pro:latest
 mysql:8.0
