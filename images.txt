@@ -1,4 +1,4 @@
-amir20/dockge:latest
+louislam/dockge:latest
 mosswill/erin:1.16
 amilys/embyserver:latest
 dko0/lsky-pro:latest
