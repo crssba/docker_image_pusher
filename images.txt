@@ -1,3 +1,4 @@
+ xia1307/cloud189-auto-save:latest
 louislam/dockge:latest
 mosswill/erin:1.16
 amilys/embyserver:latest
