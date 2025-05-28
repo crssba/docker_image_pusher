@@ -1,4 +1,5 @@
- xia1307/cloud189-auto-save:latest
+ambitiousjun/go-emby2alist:latest
+xia1307/cloud189-auto-save:latest
 louislam/dockge:latest
 mosswill/erin:1.16
 amilys/embyserver:latest
