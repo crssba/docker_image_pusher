@@ -1,4 +1,4 @@
-ChineseSubFinder/ChineseSubFinder:latest
+allanpk716/chinesesubfinder:latest
 ambitiousjun/go-emby2alist:latest
 xia1307/cloud189-auto-save:latest
 louislam/dockge:latest
@@ -11,8 +11,6 @@ ambitiousjun/live-server:latest
 seedgou/zerotier-moon
 tailscale/tailscale:latest
 dr34m/tao-sync:latest
-ambitiousjun/go-emby2alist:latest
-rustdesk/rustdesk-server:latest
 
 jiangrui1994/cloudsaver:latest
 
