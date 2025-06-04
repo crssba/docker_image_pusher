@@ -1,3 +1,4 @@
+0nlylty/dockercopilot:latest
 yikyo/clash.meta:latest
 allanpk716/chinesesubfinder:latest
 ambitiousjun/go-emby2alist:latest
