@@ -1,3 +1,4 @@
+easychen/rsspush:latest
 0nlylty/dockercopilot:latest
 yikyo/clash.meta:latest
 allanpk716/chinesesubfinder:latest
