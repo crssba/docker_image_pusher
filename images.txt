@@ -1,5 +1,5 @@
 jrottenberg/ffmpeg:latest
-ler9/mediamtx:latest
+bluenviron/mediamtx:latest
 easychen/rsspush:latest
 0nlylty/dockercopilot:latest
 yikyo/clash.meta:latest
