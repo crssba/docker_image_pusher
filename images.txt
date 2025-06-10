@@ -1,3 +1,4 @@
+jrottenberg/ffmpeg:latest
 bluenviron/mediamtx:latest
 easychen/rsspush:latest
 0nlylty/dockercopilot:latest
