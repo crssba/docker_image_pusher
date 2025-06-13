@@ -1,4 +1,4 @@
-openlistteam/openlist:latest
+ghcr.io/openlistteam/openlist:latest
 ambitiousjun/go-emby2alist:latest
 jrottenberg/ffmpeg:latest
 bluenviron/mediamtx:latest
