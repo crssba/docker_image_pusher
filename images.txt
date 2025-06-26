@@ -1,3 +1,4 @@
+ghcr.io/homarr-labs/homarr:latest
 qdtoday/qd:latest
 yidadaa/chatgpt-next-web:latest
 openlistteam/openlist:latest
