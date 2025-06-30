@@ -1,3 +1,4 @@
+lscr.io/linuxserver/wireguard:latest
 ghcr.io/haq/microsoft-rewards-bot:latest
 1574242600/microsoft-rewards-script:latest
 whyour/qinglong:latest
