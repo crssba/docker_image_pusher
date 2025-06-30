@@ -1,3 +1,4 @@
+1574242600/microsoft-rewards-script:latest
 whyour/qinglong:latest
 ghcr.io/raywangqvq/bili_tool_web:latest
 ghcr.io/homarr-labs/homarr:latest
