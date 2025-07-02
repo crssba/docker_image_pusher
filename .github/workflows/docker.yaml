@@ -101,7 +101,12 @@ jobs:
               notify_gotify "❌ 镜像拉取失败" "镜像: $line 拉取失败，任务中断"
               exit 1
             fi
+            image_info=$(docker images --format "{{.ID}} {{.CreatedSince}} {{.Size}}" "$new_image" | head -n 1)
+            image_id=$(echo "$image_info" | awk '{print $1}')
+            image_created=$(echo "$image_info" | awk '{print $2" "$3}')
+            image_size=$(echo "$image_info" | awk '{print $4}')
 
+notify_gotify "✅ 镜像推送成功" "镜像: $new_image\nID: $image_id\n创建时间: $image_created\n大小: $image_
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             if [ -z "$platform" ]; then
                 platform_prefix=""
