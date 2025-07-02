@@ -1,6 +1,3 @@
-bg6rsh/traccar-amap:latest
-traccar/traccar:latest
-lscr.io/linuxserver/wireguard:legacy
 ghcr.io/haq/microsoft-rewards-bot:latest
 1574242600/microsoft-rewards-script:latest
 whyour/qinglong:latest
