@@ -1,11 +1,11 @@
 name: Docker
 
 on:
-  workflow_dispatch:
- #push:
-   #branches: [ main ]
+  workflow_dispatch: 
+  push:
+    branches: [ new ]
   schedule:
-    - cron: '00 19 * * *'
+    - cron: '00 19 * * *'  
 
 
 
