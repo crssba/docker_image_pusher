@@ -101,12 +101,7 @@ jobs:
               notify_gotify "❌ 镜像拉取失败" "镜像: $line 拉取失败，任务中断"
               exit 1
             fi
-            image_info=$(docker images --format "{{.ID}} {{.CreatedSince}} {{.Size}}" "$new_image" | head -n 1)
-            image_id=$(echo "$image_info" | awk '{print $1}')
-            image_created=$(echo "$image_info" | awk '{print $2" "$3}')
-            image_size=$(echo "$image_info" | awk '{print $4}')
 
-notify_gotify "✅ 镜像推送成功" "镜像: $new_image\nID: $image_id\n创建时间: $image_created\n大小: $image_
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             if [ -z "$platform" ]; then
                 platform_prefix=""
@@ -140,10 +135,18 @@ notify_gotify "✅ 镜像推送成功" "镜像: $new_image\nID: $image_id\n创�
               exit 1
             fi
 
+            # 获取 IMAGE ID, CREATED, SIZE
+            image_info=$(docker images --format "{{.ID}} {{.CreatedSince}} {{.Size}}" "$new_image" | head -n 1)
+            image_id=$(echo "$image_info" | awk '{print $1}')
+            image_created=$(echo "$image_info" | awk '{print $2" "$3}')
+            image_size=$(echo "$image_info" | awk '{print $4}')
+
+            notify_gotify "✅ 镜像推送成功" "镜像: $new_image\nID: $image_id\n创建时间: $image_created\n大小: $image_size"
+
             echo "清理镜像空间"
             docker rmi $image || true
             docker rmi $new_image || true
 
         done < images.txt
 
-        notify_gotify "✅ 镜像同步成功" "images.txt 中所有镜像已成功同步并推送到阿里云"
+        notify_gotify "✅ 镜像同步完成" "images.txt 中所有镜像处理流程已结束"
