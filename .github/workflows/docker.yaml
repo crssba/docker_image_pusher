@@ -2,8 +2,8 @@ name: Docker
 
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
+ #push:
+   #branches: [ main ]
   schedule:
     - cron: '00 19 * * *'
 
@@ -65,7 +65,7 @@ jobs:
           title=$1
           msg=$2
           curl -s -X POST "https://ysewsxzmhzws.us-east-1.clawcloudrun.com/message" \
-            -H "X-Gotify-Key: Avz-fZpA5oUK2Cz" \
+            -H "X-Gotify-Key: Ay5FFfMz0q6Z4yU" \
             -H "Content-Type: application/json" \
             -d "{\"title\":\"$title\",\"message\":\"$msg\",\"priority\":5}"
         }
