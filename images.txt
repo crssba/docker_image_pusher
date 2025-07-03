@@ -1,1 +1,1 @@
-dreamacro/clash-premium:latest
+metacubex/clash-meta:latest
