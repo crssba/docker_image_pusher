@@ -1,1 +1,1 @@
-metacubex/clash-meta:latest
+lsposed/clash-meta:latest
