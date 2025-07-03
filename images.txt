@@ -1,1 +1,3 @@
-freshrss/freshrss:latest
+postgres:15
+cthulhoo/ttrss-fpm-pgsql-static:latest
+nginx:alpine
