@@ -1,1 +1,1 @@
-danielszabo99/microbin:latest
+dreamacro/clash-premium:latest
