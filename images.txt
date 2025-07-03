@@ -1,1 +1,1 @@
-ghcr.io/2boom-ua/check_services:latest
+danielszabo99/microbin:latest
