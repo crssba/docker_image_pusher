@@ -1,3 +1,1 @@
-postgres:15
-cthulhoo/ttrss-fpm-pgsql-static:latest
-nginx:alpine
+jakobst1n/rss-watcher:latest
