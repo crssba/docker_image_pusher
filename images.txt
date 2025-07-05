@@ -1,1 +1,1 @@
-jakobst1n/rss-watcher:latest
+ech0sec/awesome-epic:fish
