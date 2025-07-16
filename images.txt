@@ -1,1 +1,1 @@
-panjjo/zlmediakit:latest
+zlmediakit/zlmediakit:latest
