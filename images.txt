@@ -1,1 +1,1 @@
-microbin-zh_cn:v1
+kyle838/microbin-zh_hans:latest
