@@ -1,1 +1,1 @@
-kyle838/microbin-zh_hans:latest
+openlistteam/openlist:latest
