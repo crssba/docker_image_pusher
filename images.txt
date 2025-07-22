@@ -1,1 +1,1 @@
-germannewsmaker/myspeed:latest
+syncthing/syncthing:latest
