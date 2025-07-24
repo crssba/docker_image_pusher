@@ -1,1 +1,1 @@
-byaidu/pdf2zh:latest
+awwaawwa/pdfmathtranslate-next:latest
