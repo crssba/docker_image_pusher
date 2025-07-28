@@ -1,1 +1,1 @@
-casaos/casaos:latest
+dockurr/casa:latest
