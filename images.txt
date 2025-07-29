@@ -1,1 +1,1 @@
-dockurr/casa:latest
+amtoaer/bili-sync-rs:latest
