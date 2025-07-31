@@ -1,1 +1,1 @@
-amtoaer/bili-sync-rs:latest
+dockurr/windows:latest
