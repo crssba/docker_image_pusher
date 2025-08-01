@@ -1,1 +1,2 @@
-vinlic/deepseek-free-api:latest
+
+ghcr.io/senshinya/moontv:latest
