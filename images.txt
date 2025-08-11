@@ -1,1 +1,1 @@
-bestzwei/libretv:latest
+wahyd4/aria2-ui:latest
