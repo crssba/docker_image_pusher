@@ -1,3 +1,1 @@
-ghcr.io/fish2018/pansou:latest
-p3terx/aria2-pro:latest
-p3terx/ariang:latest
+openlistteam/openlist:latest
