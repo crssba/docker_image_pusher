@@ -1,2 +1,2 @@
-mcr.microsoft.com/playwright:v1.52.0-jammy
+node:18-slim
 openlistteam/openlist:latest
