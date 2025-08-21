@@ -1,2 +1,2 @@
-node:18-slim
-openlistteam/openlist:latest
+ghcr.io/moontechlab/lunatv:latest
+apache/kvrocks:latest
