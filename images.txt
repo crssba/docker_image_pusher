@@ -1,1 +1,2 @@
+mcr.microsoft.com/playwright:v1.52.0-jammy
 openlistteam/openlist:latest
