@@ -1,2 +1,2 @@
-ghcr.io/moontechlab/lunatv:latest
+ambitiousjun/go-emby2openlist:latest
 apache/kvrocks:latest
