@@ -1,1 +1,1 @@
-ghcr.io/qin2dim/epic-awesome-gamer:latest
+ghcr.io/moontechlab/lunatv:latest
