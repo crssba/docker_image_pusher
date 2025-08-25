@@ -88,4 +88,4 @@ jxxghp/moviepilot:latest
 haroldli/alist-tvbox:latest  
 herberthe0229/iptv-sources:latest  
 guovern/tv-requests:latest  
-ghcr.io/senshinya/moontv:latest
+
