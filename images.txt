@@ -28,7 +28,7 @@ tailscale/tailscale:latest
 dr34m/tao-sync:latest
 nginx:latest
 jiangrui1994/cloudsaver:latest
-ghcr.io/moontechlab/lunatv:latest
+
 akimio/mediawarp:latest
 akimio/autofilm:latest
 redis:alpine
