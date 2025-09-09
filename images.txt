@@ -1,1 +1,1 @@
-amrka/ultimate-android:latest
+mosswill/erin:latest
