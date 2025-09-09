@@ -1,1 +1,1 @@
-ghcr.io/joeanamier/tiktok-downloader:latest
+amrka/ultimate-android:latest
