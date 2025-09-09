@@ -1,1 +1,1 @@
-ghcr.io/joeanamier/tiktok-downloader
+ghcr.io/joeanamier/tiktok-downloader:latest
