@@ -1,1 +1,1 @@
-caddy:2.6.4-builder-duckdns
+serfriz/caddy-duckdns:latest
