@@ -1,1 +1,1 @@
-serfriz/caddy-duckdns:latest
+manlongdan/amilys_embyserver:latest
