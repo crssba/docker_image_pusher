@@ -1,3 +1,4 @@
+mdcng/mdc:latest
 manlongdan/amilys_embyserver:latest
 ech0sec/awesome-epic:fish
 ghcr.io/haq/microsoft-rewards-bot:latest
