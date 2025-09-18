@@ -1,2 +1,3 @@
-mdcng/mdc:latest
-ambitiousjun/go-emby2openlist:latest
+mosswill/erin:1-latest
+
+
