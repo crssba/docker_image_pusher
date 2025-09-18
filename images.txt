@@ -21,7 +21,7 @@ allanpk716/chinesesubfinder:latest
 ghcr.io/moontechlab/lunatv:latest
 xia1307/cloud189-auto-save:latest
 louislam/dockge:latest
-mosswill/erin:1.16
+mosswill/erin:1-latest
 amilys/embyserver:latest
 dko0/lsky-pro:latest
 mysql:8.0
