@@ -1,3 +1,1 @@
-mosswill/erin:1-latest
-nodered/node-red:latest
-
+shenxianmq/auto_symlink:latest
