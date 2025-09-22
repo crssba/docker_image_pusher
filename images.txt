@@ -1,3 +1,4 @@
+shenxianmq/auto_symlink:latest
 mdcng/mdc:latest
 node:18-slim
 mcr.microsoft.com/playwright:v1.52.0-jammy
