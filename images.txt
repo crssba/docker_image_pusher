@@ -1,1 +1,1 @@
-shenxianmq/auto_symlink:latest
+ghcr.io/yuukiy/javsp:master
