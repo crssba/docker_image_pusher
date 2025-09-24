@@ -1,3 +1,4 @@
+rednoah/filebot:node
 ghcr.io/wu529778790/panhub.shenzjd.com:latest
 shenxianmq/auto_symlink:latest
 mdcng/mdc:latest
