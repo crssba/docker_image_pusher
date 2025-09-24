@@ -1,3 +1,4 @@
+ghcr.io/wu529778790/panhub.shenzjd.com:latest
 shenxianmq/auto_symlink:latest
 mdcng/mdc:latest
 node:18-slim
