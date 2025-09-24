@@ -1,1 +1,1 @@
-ghcr.io/wu529778790/panhub.shenzjd.com:latest
+rednoah/filebot:node
