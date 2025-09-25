@@ -1,1 +1,1 @@
-rednoah/filebot:node
+ ambitiousjun/go-emby2openlist:latest
