@@ -1,1 +1,1 @@
-ambitiousjun/go-emby2openlist:latest
+containrrr/watchtower:latest
