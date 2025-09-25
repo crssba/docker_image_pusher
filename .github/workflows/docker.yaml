@@ -15,9 +15,10 @@ env:
   ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+  DOCKERHUB_USERNAME: "${{ secrets.DOCKERHUB_USERNAME }}"
+  DOCKERHUB_TOKEN: "${{ secrets.DOCKERHUB_TOKEN }}"
 
 jobs:
-
   build:
     name: Pull
     runs-on: ubuntu-latest
@@ -29,18 +30,13 @@ jobs:
         df -hT
         echo "=============================================================================="
 
-    # 增加可用磁盘空间
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
       with:
-
         root-reserve-mb: 2048
         swap-size-mb: 128
         remove-dotnet: 'true'
         remove-haskell: 'true'
-        # 如果空间还是不够用，可以把以下开启，清理出更多空间
-        # remove-android: 'true'
-        # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
     - name: Restart docker
@@ -56,8 +52,19 @@ jobs:
     - name: Checkout Code
       uses: actions/checkout@v4
 
+    # ✅ 直接在 Buildx 配置里传 Docker Hub 登录信息
     - name: Docker Setup Buildx
       uses: docker/setup-buildx-action@v3
+      with:
+        driver: docker-container
+        install: true
+        buildkitd-flags: --allow-insecure-entitlement network.host
+        login-username: ${{ secrets.DOCKERHUB_USERNAME }}
+        login-password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+    - name: Docker Login to Aliyun
+      run: |
+        docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
 
     - name: Build and push image Aliyun
       run: |
@@ -70,8 +77,6 @@ jobs:
             -H "Content-Type: application/json" \
             -d "{\"title\":\"$title\",\"message\":\"$msg\",\"priority\":5}"
         }
-
-        docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
 
         declare -A duplicate_images
         declare -A temp_map
@@ -136,7 +141,6 @@ jobs:
               exit 1
             fi
 
-            # 获取 IMAGE ID, CREATED, SIZE
             image_info=$(docker images --format "{{.ID}} {{.CreatedSince}} {{.Size}}" "$new_image" | head -n 1)
             image_id=$(echo "$image_info" | awk '{print $1}')
             image_created=$(echo "$image_info" | awk '{print $2" "$3}')
