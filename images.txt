@@ -1,2 +1,1 @@
 containrrr/watchtower:latest
-lscr.io/linuxserver/qbittorrent:latest
