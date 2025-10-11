@@ -1,1 +1,1 @@
-lsposed/clash-meta:latest
+ghcr.io/blakeblackshear/frigate:0.16.0
