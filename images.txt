@@ -1,1 +1,1 @@
-ghcr.io/blakeblackshear/frigate:0.16.0
+heizicao/ra2web:latest
