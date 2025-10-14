@@ -1,1 +1,1 @@
-mosswill/erin:latest
+joeanamier/tiktok-downloader:latest
