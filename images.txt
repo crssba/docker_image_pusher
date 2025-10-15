@@ -1,1 +1,1 @@
-joeanamier/tiktok-downloader:latest
+openfrp/frpc:latest
