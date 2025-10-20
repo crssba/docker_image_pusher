@@ -1,1 +1,2 @@
-openfrp/frpc:latest
+
+openlistteam/openlist:v4.1.1
