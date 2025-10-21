@@ -1,7 +1,7 @@
 ambitiousjun/go-emby2openlist:latest
 lsposed/clash-meta:latest
 emqx/emqx:latest
-
+jiangrui1994/cloudsaver:latest
 manlongdan/amilys_embyserver:latest
 
 
