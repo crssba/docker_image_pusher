@@ -4,7 +4,7 @@ emqx/emqx:latest
 jiangrui1994/cloudsaver:latest
 manlongdan/amilys_embyserver:latest
 bestzwei/libretv:latest
-
+zerotier/zerotier:latest
 whyour/qinglong:latest
 
 
