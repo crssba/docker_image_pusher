@@ -1,1 +1,1 @@
-rensumo/locyanfrp:v0.51.3-amd64
+xxnuo/mtranserver:latest-zh
