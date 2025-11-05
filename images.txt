@@ -1,1 +1,1 @@
-simaofsilva/noip-renewer:latest
+ghcr.io/zyronon/douyin-vue:latest
