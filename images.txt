@@ -1,1 +1,1 @@
-ghcr.io/zyronon/douyin-vue:latest
+mpromonet/v4l2rtspserver
