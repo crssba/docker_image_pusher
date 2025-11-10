@@ -1,2 +1,1 @@
-mpromonet/v4l2rtspserver:latest
-
+jrottenberg/ffmpeg:4.4-ubuntu2004
