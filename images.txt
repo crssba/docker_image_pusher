@@ -1,1 +1,2 @@
-mpromonet/v4l2rtspserver
+mpromonet/v4l2rtspserver:latest
+
