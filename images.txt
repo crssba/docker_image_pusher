@@ -1,1 +1,2 @@
-jrottenberg/ffmpeg:4.4-ubuntu2004
+aler9/rtsp-simple-server:latest
+
