@@ -1,2 +1,1 @@
-aler9/rtsp-simple-server:latest
-
+bluenviron/mediamtx:latest 
