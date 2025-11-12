@@ -1,1 +1,1 @@
-bluenviron/mediamtx:latest 
+seriousm4x/upsnap:5
