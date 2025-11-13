@@ -1,1 +1,1 @@
-gotify/server:latest
+binwiederhier/ntfy:latest
