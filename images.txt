@@ -1,1 +1,1 @@
-wxhere/bitcomet:latest
+wxhere/bitcomet-webui:latest
