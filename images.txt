@@ -1,1 +1,1 @@
-binwiederhier/ntfy:latest
+wxhere/bitcomet:latest
