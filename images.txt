@@ -1,1 +1,1 @@
-rongyunmu/mediahelp:latest
+rongyunmu/mediahelp
