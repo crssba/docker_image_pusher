@@ -1,1 +1,1 @@
-jiangrui1994/cloudsaver:test
+xia1307/cloud189-auto-save:latest
