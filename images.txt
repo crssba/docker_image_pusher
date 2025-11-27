@@ -1,1 +1,1 @@
-xia1307/cloud189-auto-save:latest
+mdcng/mdc:latest
