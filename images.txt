@@ -1,1 +1,1 @@
-mdcng/mdc:latest
+jellyfin/jellyfin:latest
