@@ -1,1 +1,1 @@
-jellyfin/jellyfin:latest
+charleshuang233/metatube-server:latest
