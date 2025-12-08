@@ -1,1 +1,1 @@
-charleshuang233/metatube-server:latest
+lscr.io/linuxserver/qbittorrent:latest
