@@ -1,1 +1,1 @@
-zishuo/embyserver:latest
+emby/embyserver:latest
