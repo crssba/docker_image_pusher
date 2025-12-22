@@ -1,1 +1,2 @@
-dbcawa/webssh:latest
+linuxserver/sonarr:latest
+linuxserver/bazarr:latest
