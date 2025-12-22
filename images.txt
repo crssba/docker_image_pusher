@@ -1,2 +1,3 @@
 linuxserver/sonarr:latest
 linuxserver/bazarr:latest
+blusky/subfinder:latest
