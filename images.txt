@@ -23,7 +23,7 @@ ghcr.io/moontechlab/lunatv:latest
 
 
 mosswill/erin:1-latest
-amilys/embyserver:latest
+
 
 
 
