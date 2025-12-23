@@ -18,7 +18,7 @@ ambitiousjun/go-emby2alist:latest
 easychen/rsspush:latest
 
 yikyo/clash.meta:latest
-allanpk716/chinesesubfinder:latest
+
 ghcr.io/moontechlab/lunatv:latest
 
 
