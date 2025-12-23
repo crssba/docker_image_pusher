@@ -1,1 +1,1 @@
-emby/embyserver:latest
+beclab/aboveos-allanpk716-chinesesubfinder:v0.55.3
