@@ -1,1 +1,1 @@
-beclab/aboveos-allanpk716-chinesesubfinder:v0.55.3
+xiaozhu674/gameservermanager:latest
