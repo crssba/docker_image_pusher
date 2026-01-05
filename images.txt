@@ -1,1 +1,1 @@
-xiaozhu674/gameservermanager:latest
+node:22-slim
