@@ -1,1 +1,1 @@
-dockurr/casa
+qdnas/flatnas:latest
