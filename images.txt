@@ -1,2 +1,2 @@
-hanxi/cups:latest
-hanxi/cups-web:latest
+hanxi/xiaomusic:latest
+
