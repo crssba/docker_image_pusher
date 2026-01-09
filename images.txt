@@ -1,2 +1,2 @@
-hanxi/xiaomusic:latest
+ivdata/mopidy:latest
 
