@@ -1,2 +1,2 @@
-ivdata/mopidy:latest
+vimagick/mpd:latest
 
