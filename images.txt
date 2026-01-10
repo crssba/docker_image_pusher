@@ -1,2 +1,2 @@
-vimagick/mpd:latest
+hanxi/xiaomusic:latest
 
