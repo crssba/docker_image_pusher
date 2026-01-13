@@ -1,1 +1,1 @@
-docker.io/foamzou/melody:latest
+mosswill/erin:latest
