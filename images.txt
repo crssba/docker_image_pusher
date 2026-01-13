@@ -1,1 +1,1 @@
-mosswill/erin:latest
+mosswill/erin:l1.18
