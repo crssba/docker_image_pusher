@@ -1,1 +1,2 @@
-mosswill/erin:1.18
+ghcr.io/thephaseless/byparr:latest
+ghcr.io/suwayomi/suwayomi-server:preview
