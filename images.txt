@@ -1,1 +1,1 @@
-xhongc/music_tag_web:latest
+docker.io/owntone/owntone:latest
