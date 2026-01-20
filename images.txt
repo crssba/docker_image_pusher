@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_14.0_v3.1.1-p0
+docker.1ms.run/hanxi/cups:latest
