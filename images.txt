@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_12.0_v3.1.1-p0
+budtmo/docker-android:emulator_14.0_v3.1.1-p0
