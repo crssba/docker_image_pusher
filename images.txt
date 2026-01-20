@@ -1,1 +1,1 @@
-tracer0tong/android-emulator:latest
+budtmo/docker-android:emulator_12.0_v3.1.1-p0
