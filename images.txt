@@ -1,1 +1,1 @@
-1activegeek/airconnect:latest
+docker.io/owntone/owntone:latest
