@@ -1,1 +1,1 @@
-docker.io/owntone/owntone:latest
+dzhuang/tinymediamanager:latest-v5
