@@ -1,1 +1,1 @@
-dzhuang/tinymediamanager:latest-v5
+mumblevoip/mumble-server:v1.5.857-1
