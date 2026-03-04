@@ -1,1 +1,1 @@
-jiangrui1994/cloudsaver:latest
+homeassistant/home-assistant:latest
