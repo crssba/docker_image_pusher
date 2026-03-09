@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+hiyuelin/m3u-proxy:latest
