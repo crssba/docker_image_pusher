@@ -1,1 +1,1 @@
-hiyuelin/m3u-proxy:latest
+ifmm/udpxy:latest
