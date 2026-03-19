@@ -1,1 +1,1 @@
-ntop/ntopng.dev:latest
+ntop/ntopng:latest
