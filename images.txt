@@ -1,1 +1,1 @@
-netdata/netdata:latest
+ntop/ntopng.dev:latest
