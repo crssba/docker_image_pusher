@@ -1,1 +1,1 @@
-ntop/ntopng:latest
+qdnas/flatnas:latest
