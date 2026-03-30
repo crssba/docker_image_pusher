@@ -1,1 +1,1 @@
-zerotier/zerotier:latest
+cloudnas/clouddrive2:latest
