@@ -1,1 +1,1 @@
-oldiy/frpc:latest
+ghcr.io/liangminmx/80h5:latest  
