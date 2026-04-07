@@ -1,1 +1,3 @@
 ghcr.io/liangminmx/80h5:latest  
+redis:7-alpine
+ghcr.io/24kbrother/aura-grid:latest
