@@ -1,1 +1,2 @@
-registry.gitlab.com/shinobi-systems/shinobi:dev
+mariadb:10.2
+docker.io/ponte124/shinobi:latest
