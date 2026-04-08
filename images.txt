@@ -1,2 +1,1 @@
-mariadb:10.2
-docker.io/ponte124/shinobi:latest
+mekayelanik/ispyagentdvr:latest
