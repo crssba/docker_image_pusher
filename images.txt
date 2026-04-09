@@ -1,1 +1,1 @@
-mekayelanik/ispyagentdvr:latest
+lscr.io/linuxserver/emulatorjs:latest
