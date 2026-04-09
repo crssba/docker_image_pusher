@@ -1,1 +1,1 @@
-lscr.io/linuxserver/emulatorjs:latest
+linuxserver/emulatorjs:amd64-latest
