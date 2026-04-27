@@ -8,7 +8,7 @@ zerotier/zerotier:latest
 whyour/qinglong:latest
 ghcr.io/fish2018/pansou-web:latest
 lscr.io/linuxserver/qbittorrent:latest
-
+qdnas/flatnas:latest
 qdtoday/qd:latest
 
 openlistteam/openlist:latest
