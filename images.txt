@@ -1,1 +1,1 @@
-goacme/lego:latest
+allinssl/allinssl:latest
