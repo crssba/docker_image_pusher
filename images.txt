@@ -1,1 +1,1 @@
-allinssl/allinssl:latest
+ghcr.io/linuxserver/swag:latest
