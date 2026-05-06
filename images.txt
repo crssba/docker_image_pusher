@@ -1,1 +1,1 @@
-ghcr.io/linuxserver/swag:latest
+wuxin12/auto-movie-resources-manager:v0.6
