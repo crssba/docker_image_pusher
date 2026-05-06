@@ -1,1 +1,1 @@
-wuxin12/auto-movie-resources-manager:v0.6
+msterzhang/onelist:latest
