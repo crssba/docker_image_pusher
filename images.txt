@@ -10,7 +10,8 @@ ghcr.io/fish2018/pansou-web:latest
 lscr.io/linuxserver/qbittorrent:latest
 qdnas/flatnas:latest
 qdtoday/qd:latest
-
+dimitri/pgloader:latest
+jxxghp/moviepilot-v2:latest
 openlistteam/openlist:latest
 ambitiousjun/go-emby2alist:latest
 
