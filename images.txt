@@ -1,1 +1,1 @@
-akimio/autofilm:latest
+mrfrog1989/cloud-one-system:latest
