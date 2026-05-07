@@ -1,1 +1,2 @@
-ghcr.io/hotio/prowlarr:latest
+dimitri/pgloader:latest
+jxxghp/moviepilot-v2:latest
