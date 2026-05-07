@@ -1,1 +1,1 @@
-mrfrog1989/cloud-one-system:latest
+lscr.io/linuxserver/jackett:latest
