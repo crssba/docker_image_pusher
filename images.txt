@@ -1,1 +1,1 @@
-lscr.io/linuxserver/jackett:latest
+ghcr.io/ymting/my-cloud189-auto-save:latest
