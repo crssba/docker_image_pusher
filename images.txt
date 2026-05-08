@@ -1,1 +1,1 @@
-gdy666/luckr:latest
+gdy666/lucky:latest
