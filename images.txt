@@ -1,1 +1,1 @@
-gdy666/luckr:test
+gdy666/luckr:latest
