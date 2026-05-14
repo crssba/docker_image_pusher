@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+ghcr.io/immich-app/immich-server:release
