@@ -1,1 +1,1 @@
- ghcr.io/immich-app/immich-server:v2
+ghcr.io/koush/scrypted:latest
