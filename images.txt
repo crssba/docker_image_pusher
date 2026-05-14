@@ -1,1 +1,2 @@
 ghcr.io/koush/scrypted:latest
+nickfedor/watchtower:latest
