@@ -72,8 +72,8 @@ jobs:
         notify_gotify() {
           title=$1
           msg=$2
-          curl -s -X POST "https://ysewsxzmhzws.us-east-1.clawcloudrun.com/message" \
-            -H "X-Gotify-Key: Ay5FFfMz0q6Z4yU" \
+          curl -s -X POST "https://chenqun.duckdns.org:8088/message" \
+            -H "X-Gotify-Key: AJ6H32Zkk8n0zKk" \
             -H "Content-Type: application/json" \
             -d "{\"title\":\"$title\",\"message\":\"$msg\",\"priority\":5}"
         }
