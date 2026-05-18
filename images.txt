@@ -1,1 +1,2 @@
 binwiederhier/ntfy:latest
+gotify/server:latest
