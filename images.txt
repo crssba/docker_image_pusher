@@ -1,2 +1,2 @@
+qdtoday/qd:dev
 
-whyour/qinglong:latest
