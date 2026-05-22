@@ -1,1 +1,2 @@
 ghcr.io/thephaseless/byparr:latest
+ghcr.io/suwayomi/suwayomi-server:preview
