@@ -1,1 +1,1 @@
-ghcr.io/suwayomi/tachidesk:v2.2.2166
+ghcr.io/thephaseless/byparr:latest
