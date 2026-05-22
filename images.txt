@@ -1,2 +1,4 @@
 jxxghp/moviepilot-v2:latest
 whyour/qinglong:latest
+ghcr.io/thephaseless/byparr:latest
+ghcr.io/suwayomi/suwayomi-server:preview
