@@ -2,3 +2,7 @@ jxxghp/moviepilot-v2:latest
 whyour/qinglong:latest
 ghcr.io/thephaseless/byparr:latest
 ghcr.io/suwayomi/suwayomi-server:preview
+heavrnl/nexus-terminal-frontend:latest
+heavrnl/nexus-terminal-backend:latest
+heavrnl/nexus-terminal-remote-gateway:latest
+guacamole/guacd:latest
