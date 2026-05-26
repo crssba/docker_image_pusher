@@ -1,1 +1,1 @@
-ghcr.io/suwayomi/suwayomi-server:preview
+dr34m/tao-sync:latest
