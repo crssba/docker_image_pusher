@@ -1,1 +1,1 @@
-nickfedor/watchtower:latest
+heavrnl/easytier-web:latest
