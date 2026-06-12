@@ -1,1 +1,1 @@
-infiniflow/ragflow:latest
+nickfedor/watchtower:latest
