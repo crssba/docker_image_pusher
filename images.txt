@@ -1,1 +1,1 @@
-heavrnl/easytier-web:latest
+songloft/songloft:latest
