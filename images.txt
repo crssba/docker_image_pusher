@@ -1,1 +1,1 @@
-ngrok/ngrok:latest
+hanxi/cups:latest
