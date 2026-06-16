@@ -1,2 +1,1 @@
-wernight/ngrok:latest
-thewhiteh4t/seeker:latest
+ngrok/ngrok:latest
