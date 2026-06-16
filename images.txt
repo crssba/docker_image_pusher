@@ -1,1 +1,2 @@
- ghcr.io/seriousm4x/upsnap:5
+wernight/ngrok:latest
+thewhiteh4t/seeker:latest
