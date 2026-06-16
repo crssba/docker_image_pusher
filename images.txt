@@ -7,3 +7,4 @@ heavrnl/nexus-terminal-backend:latest
 heavrnl/nexus-terminal-remote-gateway:latest
 guacamole/guacd:latest
 songloft/songloft:latest
+hanxi/cups:latest
