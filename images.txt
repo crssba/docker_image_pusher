@@ -1,1 +1,1 @@
-mosswill/erin:latest
+geelonn/lxserver:latest
