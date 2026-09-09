@@ -1,1 +1,2 @@
-ma303973022/junyao-ktv:1.2.0
+postgres:14
+blinkospace/blinko:latest
