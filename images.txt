@@ -1,1 +1,2 @@
-jonnyan404/verysync:latest
+ghcr.io/immich-app/immich-server:latest
+ghcr.io/immich-app/immich-machine-learning:latest
