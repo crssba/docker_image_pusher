@@ -8,5 +8,5 @@ heavrnl/nexus-terminal-remote-gateway:latest
 guacamole/guacd:latest
 songloft/songloft:latest
 hanxi/cups:latest
-ghcr.io/immich-app/immich-server:latest
-ghcr.io/immich-app/immich-machine-learning:latest
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
