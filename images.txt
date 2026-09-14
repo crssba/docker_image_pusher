@@ -1,2 +1,2 @@
-ghcr.io/immich-app/immich-server:latest
-ghcr.io/immich-app/immich-machine-learning:latest
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
