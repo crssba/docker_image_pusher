@@ -10,3 +10,4 @@ songloft/songloft:latest
 hanxi/cups:latest
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
+qdnas/flatnas:latest
