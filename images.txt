@@ -1,1 +1,1 @@
-ghcr.io/blakeblackshear/frigate:stable
+ghcr.io/0x2142/frigate-notify:latest
