@@ -1,1 +1,1 @@
-xcq0607/lxserver:latest
+ghcr.io/blakeblackshear/frigate:latest
