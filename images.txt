@@ -1,1 +1,1 @@
-ghcr.io/redcath/hollymusic:latest
+xcq0607/lxserver:latest
