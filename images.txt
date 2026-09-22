@@ -1,1 +1,1 @@
-ghcr.io/0x2142/frigate-notify:latest
+emqx/mqttx-cli:latest
