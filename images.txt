@@ -1,1 +1,1 @@
-emqx/mqttx-cli:latest
+ghcr.io/gotify/server:latest
