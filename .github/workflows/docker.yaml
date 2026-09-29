@@ -1,71 +1,3 @@
-name: Docker
-
-on:
-  workflow_dispatch:
-  #push:
-    #branches: [ main ]
-  schedule:
-    - cron: '00 19 * * *'
-
-
-
-
-env:
-  ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
-  ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
-  ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
-  ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
-  DOCKERHUB_USERNAME: "${{ secrets.DOCKERHUB_USERNAME }}"
-  DOCKERHUB_TOKEN: "${{ secrets.DOCKERHUB_TOKEN }}"
-
-jobs:
-  build:
-    name: Pull
-    runs-on: ubuntu-latest
-    steps:
-    - name: Before freeing up disk space
-      run: |
-        echo "Before freeing up disk space"
-        echo "=============================================================================="
-        df -hT
-        echo "=============================================================================="
-
-    - name: Maximize build space
-      uses: easimon/maximize-build-space@master
-      with:
-        root-reserve-mb: 2048
-        swap-size-mb: 128
-        remove-dotnet: 'true'
-        remove-haskell: 'true'
-        build-mount-path: '/var/lib/docker/'
-
-    - name: Restart docker
-      run: sudo service docker restart
-
-    - name: Free up disk space complete
-      run: |
-        echo "Free up disk space complete"
-        echo "=============================================================================="
-        df -hT
-        echo "=============================================================================="
-
-    - name: Checkout Code
-      uses: actions/checkout@v4
-
-    # ✅ 直接在 Buildx 配置里传 Docker Hub 登录信息
-    - name: Docker Setup Buildx
-      uses: docker/setup-buildx-action@v3
-      with:
-        driver: docker-container
-        install: true
-        buildkitd-flags: --allow-insecure-entitlement network.host
-        login-username: ${{ secrets.DOCKERHUB_USERNAME }}
-        login-password: ${{ secrets.DOCKERHUB_TOKEN }}
-
-    - name: Docker Login to Aliyun
-      run: |
-        docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
-
     - name: Build and push image Aliyun
       run: |
         # 定义 Gotify 推送函数
@@ -80,6 +12,9 @@ jobs:
 
         declare -A duplicate_images
         declare -A temp_map
+        # 用来汇总所有成功信息
+        summary_msg=""
+
         while IFS= read -r line || [ -n "$line" ]; do
             [[ -z "$line" ]] && continue
             if echo "$line" | grep -q '^\s*#'; then continue; fi
@@ -146,7 +81,8 @@ jobs:
             image_created=$(echo "$image_info" | awk '{print $2" "$3}')
             image_size=$(echo "$image_info" | awk '{print $4}')
 
-            notify_gotify "✅ 镜像推送成功" "镜像: $new_image\nID: $image_id\n创建时间: $image_created\n大小: $image_size"
+            # 不再单独推送消息，追加到汇总字符串
+            summary_msg+="✅ $new_image\nID: $image_id | $image_created | $image_size\n\n"
 
             echo "清理镜像空间"
             docker rmi $image || true
@@ -154,4 +90,5 @@ jobs:
 
         done < images.txt
 
-        notify_gotify "✅ 镜像同步完成" "images.txt 中所有镜像处理流程已结束"
+        # 全部循环结束后，一次性推送汇总消息
+        notify_gotify "✅ 镜像同步完成" "$summary_msg"
