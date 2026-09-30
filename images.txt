@@ -1,3 +1,4 @@
+homeassistant/home-assistant:latest
 jxxghp/moviepilot-v2:latest
 whyour/qinglong:latest
 ghcr.io/thephaseless/byparr:latest
