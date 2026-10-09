@@ -1,1 +1,1 @@
-adguard/adguardhome:latest
+lscr.io/linuxserver/paperless-ngx:latest
