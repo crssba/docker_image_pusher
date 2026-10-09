@@ -1,1 +1,1 @@
-clusterzx/paperless-ai:latest
+admonstrator/zettelrobbe:latest
