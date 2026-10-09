@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+adguard/adguardhome:latest
