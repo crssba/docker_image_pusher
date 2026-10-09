@@ -1,3 +1,1 @@
-docker.io/valkey/valkey:9-alpine
-docker.io/library/mariadb:12
-ghcr.io/paperless-ngx/paperless-ngx:latest
+gotenberg/gotenberg:latest
