@@ -1,1 +1,1 @@
-archiewang0307/ouonnkitv:latest
+ghcr.io/decohererk/decotv:latest
