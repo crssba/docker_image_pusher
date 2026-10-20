@@ -1,2 +1,2 @@
-ghcr.io/decohererk/decotv:latest
-apache/kvrocks:latest
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
