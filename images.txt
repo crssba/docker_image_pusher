@@ -1,1 +1,2 @@
 ghcr.io/decohererk/decotv:latest
+apache/kvrocks:latest
