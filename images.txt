@@ -1,1 +1,1 @@
-ghcr.io/librespark/libretv:latest
+archiewang0307/ouonnkitv:latest
