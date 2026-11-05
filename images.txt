@@ -1,1 +1,1 @@
-paddlecloud/paddleocr:2.6-cpu-latest
+ghcr.io/liangminmx/h5game:latest
