@@ -1,1 +1,2 @@
 ghcr.io/liangminmx/h5game:latest
+homeassistant/home-assistant
