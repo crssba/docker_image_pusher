@@ -1,1 +1,1 @@
-cyh303/tvbox:latest
+lampon/omnibox:latest
