@@ -1,1 +1,1 @@
-lampon/omnibox:latest
+systemsome/omnibox:latest
