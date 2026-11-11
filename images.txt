@@ -1,2 +1,1 @@
-mariadb:lts
-kodcloud/kodbox:latest
+ghcr.io/panda-995/tidewater:latest
