@@ -1,2 +1,2 @@
 paddlecloud/paddleocr:2.6-cpu-latest
-
+develop767/migu_video:latest
