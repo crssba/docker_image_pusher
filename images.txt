@@ -1,1 +1,1 @@
-ghcr.io/panda-995/tidewater:latest
+develop767/migu_video:latest
