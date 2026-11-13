@@ -1,1 +1,1 @@
-akiralereal/iptv:latest
+docker.io/koryking/1panel:latest
