@@ -1,1 +1,1 @@
-docker.io/koryking/1panel:latest
+daitcl/mihomo:latest
