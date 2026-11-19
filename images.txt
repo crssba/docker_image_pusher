@@ -1,2 +1,1 @@
-reebie-radar:latest
-ghcr.io/flaresolverr/flaresolverr:latest
+node:24-alpine
