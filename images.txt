@@ -1,1 +1,2 @@
-daitcl/mihomo:latest
+reebie-radar:latest
+ghcr.io/flaresolverr/flaresolverr:latest
