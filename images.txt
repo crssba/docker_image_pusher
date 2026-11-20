@@ -1,1 +1,1 @@
-linuxserver/homeassistant:latest
+dpanel/dpanel:latest
