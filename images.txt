@@ -1,1 +1,1 @@
-dpanel/dpanel:latest
+homeassistant/home-assistant:latest
