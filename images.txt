@@ -1,1 +1,1 @@
-ramuses/photopea:latest
+homeassistant/home-assistant:latest
