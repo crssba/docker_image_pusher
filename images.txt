@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+lscr.io/linuxserver/mariadb:10.11
