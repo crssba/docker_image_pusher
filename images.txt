@@ -1,1 +1,1 @@
-vinlic/doubao-free-api:latest
+node:lts-alpine
