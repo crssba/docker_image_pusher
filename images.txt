@@ -1,1 +1,1 @@
-ghcr.io/fu-jie/deepseek-free-api:latest
+registry.cn-hangzhou.aliyuncs.com/chenqun/:3.11-slim
