@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/chenqun/:3.11-slim
+vinlic/doubao-free-api:latest
