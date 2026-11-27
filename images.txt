@@ -1,1 +1,1 @@
-node:lts-alpine
+spaceinvaderone/a-eye:latest
