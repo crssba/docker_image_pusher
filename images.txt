@@ -1,1 +1,1 @@
-spaceinvaderone/a-eye:latest
+ghcr.io/timasoft/immich-analyze:main
