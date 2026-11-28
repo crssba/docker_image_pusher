@@ -1,1 +1,1 @@
-ghcr.io/timasoft/immich-analyze:main
+bluenviron/mediamtx:latest
